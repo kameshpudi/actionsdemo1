@@ -5,6 +5,11 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+
+| Image | Status |
+| ------------- | ------------- |
+| Demo Status | [![.github/workflows/ci.yml](https://github.com/kameshpudi/actionsdemo1/actions/workflows/ci.yml/badge.svg?branch=ci)](https://github.com/kameshpudi/actionsdemo1/actions/workflows/ci.yml) |
+
 # Continuous Integration
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
